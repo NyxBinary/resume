@@ -30,3 +30,15 @@ body {
 .top-1 {
     padding-top: 1em;
 }
+
+.top-3 {
+    padding-top: 3em;
+}
+
+.top-05 {
+    padding-top: 0.5em;
+}
+
+.top-075 {
+    padding-top: 0.75em;
+}
